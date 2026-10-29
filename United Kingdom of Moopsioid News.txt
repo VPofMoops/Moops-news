@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+ <html lang="en">
+<head>
+<!-- UnitedKingdomOfMoopsioidNews -->
+<title>United Kingdom of Moopsioid</title>
+ <style>
+body {
+Font-family: ‘Courier New’, Courier, monospace;
+ }
+</style>
+<body> 
+<h1>United Kingdom Of Moopsioid Friday News<h1>
+<div id=”introduction”>
+<p>No news yet…</p>
+</body>
+</html>
